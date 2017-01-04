@@ -1,0 +1,13 @@
+{
+    "name": "philvanbwg/joii",
+    "type": "component",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "scripts": ["dist/joii.min.js"],
+            "files": ["dist/joii.js"]
+        }
+    }
+}
